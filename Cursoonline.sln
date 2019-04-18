@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cursoonline.DominioTest", "test\Cursoonline.DominioTest\Cursoonline.DominioTest.csproj", "{01E8E1C6-4598-4FC6-B931-E396FA3978FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cursoonline.Dominio", "src\Cursoonline.Dominio\Cursoonline.Dominio.csproj", "{189F5AA6-25B1-4204-8230-17DA91B6FD40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01E8E1C6-4598-4FC6-B931-E396FA3978FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E8E1C6-4598-4FC6-B931-E396FA3978FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E8E1C6-4598-4FC6-B931-E396FA3978FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E8E1C6-4598-4FC6-B931-E396FA3978FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189F5AA6-25B1-4204-8230-17DA91B6FD40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189F5AA6-25B1-4204-8230-17DA91B6FD40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189F5AA6-25B1-4204-8230-17DA91B6FD40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189F5AA6-25B1-4204-8230-17DA91B6FD40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21FF2063-8372-4E85-91EB-99FE82308C2F}
+	EndGlobalSection
+EndGlobal
